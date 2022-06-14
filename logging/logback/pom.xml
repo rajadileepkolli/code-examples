@@ -23,7 +23,7 @@
         <dependency>
             <groupId>io.logz.logback</groupId>
             <artifactId>logzio-logback-appender</artifactId>
-            <version>1.0.24</version>
+            <version>v1.0.26</version>
         </dependency>
     </dependencies>
 </project>
