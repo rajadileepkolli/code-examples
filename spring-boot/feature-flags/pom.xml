@@ -57,17 +57,17 @@
 		<dependency>
 			<groupId>org.ff4j</groupId>
 			<artifactId>ff4j-spring-boot-starter</artifactId>
-			<version>1.8.11</version>
+			<version>1.9</version>
 		</dependency>
 		<dependency>
 			<groupId>org.ff4j</groupId>
 			<artifactId>ff4j-web</artifactId>
-			<version>1.8.11</version>
+			<version>1.9</version>
 		</dependency>
 		<dependency>
 			<groupId>org.ff4j</groupId>
 			<artifactId>ff4j-config-yaml</artifactId>
-			<version>1.8.11</version>
+			<version>1.9</version>
 		</dependency>
 
 		<dependency>
